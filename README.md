@@ -1,4 +1,4 @@
-:warning: The app cannot be run anymore due to API changes. There is no plans to work on this project more.
+:warning: The app cannot be run anymore due to API changes. There is no plans to work on this project more...
 
 # Movie theater application
 
